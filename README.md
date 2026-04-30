@@ -24,7 +24,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name   = "Tauri Paris Baiwa"
+        self.name   = "Taurai Paris Baiwa"
         self.role   = "Computer Science Student"
         self.traits = ["Curious", "Logical", "Consistent"]
         self.focus  = ["Problem Solving", "Web Development", "System Design"]
