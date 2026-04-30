@@ -12,7 +12,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/%E2%80%A2%20computer%20science-%237F77DD?style=flat-square"/>
-  <img src="https://img.shields.io/badge/%E2%80%A2%20web%20development-%237F77DD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/%E2%80%A2%20databases-%237F77DD?style=flat-square"/>
   <img src="https://img.shields.io/badge/%E2%80%A2%20problem%20solving-%237F77DD?style=flat-square"/>
   <img src="https://img.shields.io/badge/%E2%80%A2%20dsa-%237F77DD?style=flat-square"/>
 </p>
@@ -27,7 +27,7 @@ class Developer:
         self.name   = "Taurai Paris Baiwa"
         self.role   = "Computer Science Student"
         self.traits = ["Curious", "Logical", "Consistent"]
-        self.focus  = ["Problem Solving", "Web Development", "System Design"]
+        self.focus  = ["Problem Solving", "Database Systems", "System Design"]
 
     def philosophy(self):
         return "Build solutions that are simple, efficient, and reliable."
@@ -41,16 +41,17 @@ I approach problems with **structure**, break them down **logically**, and build
 ## `Tech Stack`
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,git,github,vscode&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,r,mysql,git,github,vscode&theme=dark"/>
 </p>
 
 | Language / Tool | Area |
 |:---|:---|
 | `Python` | scripting · logic · automation |
 | `Java` | oop · data structures |
+| `C#` | object-oriented programming |
 | `C++` | systems · performance |
-| `HTML / CSS` | web foundation · layout |
-| `JavaScript` | interactivity · frontend logic |
+| `R` | data analysis · statistics |
+| `SQL (MySQL & Oracle)` | database management · queries |
 | `Git / GitHub` | version control · collaboration |
 
 ---
@@ -58,10 +59,10 @@ I approach problems with **structure**, break them down **logically**, and build
 ## `What I work on`
 
 ```
-Data Structures & Algorithms   →  core cs fundamentals
-Web Application Development    →  full-stack thinking
-Clean, Maintainable Code       →  readable systems
-User-Focused Design Thinking   →  people-first interfaces
+Data Structures & Algorithms   →  Core CS Fundamentals
+Database Management Systems    →  MySQL · Oracle SQL · Data Modeling
+Object-Oriented Programming    →  Clean, Structured Code
+Clean, Maintainable Code       →  Readable Systems
 ```
 
 ---
@@ -72,8 +73,8 @@ User-Focused Design Thinking   →  people-first interfaces
 |:---|:---|
 | 🟢 `active` | Strengthening core CS fundamentals |
 | 🟢 `building` | Real-world projects from scratch |
-| 🟢 `learning` | Exploring new technologies |
-| 🟢 `refining` | Problem-solving efficiency |
+| 🟢 `learning` | Deepening database & DBMS knowledge |
+| 🟢 `refining` | Problem-solving efficiency with DSA |
 
 ---
 
