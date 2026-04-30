@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="left">
-  Hi, I'm <span style="color:#a855f7;">Tauri Paris Baiwa</span>
+  Hi, I'm <span style="color:#a855f7;">Taurai Paris Baiwa</span>
 </h1>
 
 <p align="left">
