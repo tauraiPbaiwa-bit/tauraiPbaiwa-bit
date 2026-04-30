@@ -94,11 +94,11 @@ Clean, Maintainable Code       →  Readable Systems
 ## `Let's Connect`
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/taurai-paris-baiwa-543884349">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:tauraiparisbaiwa@gmail.com">
     <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
