@@ -26,7 +26,7 @@ I'm a Computer Science student in Pune, India, focused on database systems, data
 | [Oracle E-commerce Order Management](https://github.com/tauraiPbaiwa-bit/oracle-ecommerce-order-management) | Oracle SQL and PL/SQL schema design, order processing, and transaction handling. |
 | [Football Analytics](https://github.com/tauraiPbaiwa-bit/football-sql-powerbi-analysis) | SQL data preparation and Power BI dashboards for team performance and match outcomes. |
 | [Banks ETL Pipeline](https://github.com/tauraiPbaiwa-bit/Bank-ETL) | Python extraction, currency transformation, CSV/SQLite loading, and querying; an IBM coursework project. |
-| [Student Management System](https://github.com/tauraiPbaiwa-bit/student-management-system) | A Python/Tkinter application backed by MySQL, with CRUD operations and CSV export. |
+| [SwiftAuto Sales & Service Dashboard](https://github.com/tauraiPbaiwa-bit/swiftauto-dashboard) | Interactive automotive sales, profit, recalls, and customer sentiment analysis; a standalone web dashboard based on the IBM Cognos Analytics lab. |
 
 ## Tools I use
 
@@ -76,4 +76,3 @@ Deepening my database design and SQL skills, building reproducible data pipeline
 <p align="center">
   <img alt="Purple wave footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:0f172a&height=120&section=footer"/>
 </p>
-
